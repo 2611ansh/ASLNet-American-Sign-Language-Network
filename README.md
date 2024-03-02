@@ -54,15 +54,6 @@ To use the Sign Language Prediction system, follow these steps:
 - Start a live camera feed for real-time sign language recognition.
 - Utilize the YOLOv5 model for object detection and gesture prediction.
 
-## Project Structure
-
-The project is structured as follows:
-
-- `app.py`: The main Python application file that handles sign language prediction requests and live camera feed processing.
-- `signLanguage/utils/`: Directory containing utility scripts for image decoding and encoding.
-- `data/`: Directory for storing input images and predicted gesture images.
-- `yolov5/`: Directory containing the YOLOv5 model for object detection.
-
 ## Acknowledgments
 
 - OpenCV and YOLOv5 for computer vision capabilities.
