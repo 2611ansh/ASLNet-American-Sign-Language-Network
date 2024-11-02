@@ -2,11 +2,6 @@
 
 This is the README file for the "Sign Language Prediction" project. The project is designed to predict sign language gestures using computer vision techniques.
 
-## Project Repository
-
-You can find the project's code and files in the following GitHub repository:
-
-[Sign Language Prediction GitHub Repository](https://github.com/2611ansh/sign-language-prediction.git)
 
 ## Project Overview
 
